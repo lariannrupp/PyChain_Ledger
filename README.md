@@ -10,6 +10,7 @@ The purpose of this application is to build a blockchain-based ledger system tha
 
 ## Technologies
 A Python 3 (ipykernal) in JupyterLab was used to write this application. Additional Python libraries are imported into the start of the app: 
+
 ![Screenshot 2022-06-05 095351](https://user-images.githubusercontent.com/95719899/172059136-f33c3abe-2ecf-4cf8-ab5d-91ef2fb3cc6e.jpg)
 
 ---
